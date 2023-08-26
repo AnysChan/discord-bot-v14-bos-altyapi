@@ -9,7 +9,7 @@
   "author": "Eren",
   "license": "MIT",
   "dependencies": {
-    "@discordjs/rest": "^1.1.0",
+    "@discordjs/rest": "^1.7.1",
     "croxydb": "^0.0.7",
     "discord-api-types": "^0.37.5",
     "discord-gamecord": "^2.1.0",
